@@ -1,9 +1,14 @@
-horse
-cow
-chicken
-whale
-seahorse
-dolphin
-monkey
-python
-bird of paradise
+<!doctype html>
+ <title>Learning about gh-pages</title>
+ <body>
+ <ul>
+   <li>horse
+   <li>cow
+   <li>chicken
+   <li>whale
+   <li>seahorse
+   <li>dolphin
+   <li>monkey
+   <li>python
+   <li>bird of paradise
+ </ul>
